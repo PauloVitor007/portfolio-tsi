@@ -1,0 +1,1 @@
+console.log('Lab 05 carregado');
